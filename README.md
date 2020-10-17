@@ -1,7 +1,7 @@
 # constitutional-support
 ## Data and R files for article in Journal of Contemporary Central and Eastern Europe ##
 
-This repository contains data and r files to replicate results published in my article in Journal of Contemporary Central and Eastern Europe. I will add a permanent copy of the article as soon as copyright enables me to do so. In the meantime, you can access it [here](https://www.tandfonline.com/eprint/8BWNMYNC8AYX6RFASES9/full?target=10.1080/25739638.2020.1833562)
+This repository contains data and r files to replicate results published in my article in the  *Journal of Contemporary Central and Eastern Europe*. I will add a permanent copy of the article as soon as copyright enables me to do so. In the meantime, you can access it [here](https://www.tandfonline.com/eprint/8BWNMYNC8AYX6RFASES9/full?target=10.1080/25739638.2020.1833562)
 
 Over the last ten years or so, academic research in the arts and social sciences has increasingly embraced open source software and the principles of transparanecy in research. These remain contested in some respects - and, in part, I share some of the concerns of my colleagues. 
 
