@@ -3,7 +3,10 @@
 
 These files underpin my article in *Journal of Contemporary Central and Eastern Europe*. The article has now been published and can be accessed at the link below. It extends research which I've published about political support in European democracies, specifically in the Federal Republic of Germany. In this article, I challenge assumptions about the degree to which Germans have lost faith in democracy by showing that attachments the constitution, the *Basic Law*, are quite widely spread across the population and have deepened in parts of the country where they were previously quite shallow. I also use generalised linear modeling (GLM) and post-estimation analyses to show that these attachments are grounded in individual characteristics that are likely to make them endure.
 
-This repository holds data and r files from which I conducted research on how Germans evaluate the Constitution, *Basic Law*. This research formed the basis of my article in the  *Journal of Contemporary Central and Eastern Europe*. I will add a permanent copy of the article as soon as copyright enables me to do so. In the meantime, you can access it [here](https://www.tandfonline.com/eprint/8BWNMYNC8AYX6RFASES9/full?target=10.1080/25739638.2020.1833562)
+This repository holds data and r files from which I conducted the research. You can find the full details in my article which has been published in the  *Journal of Contemporary Central and Eastern Europe*. I will add a permanent copy of the article as soon as copyright enables me to do so. In the meantime, you can access it [here](https://www.tandfonline.com/eprint/8BWNMYNC8AYX6RFASES9/full?target=10.1080/25739638.2020.1833562)
+
+# Why do this? #
+
 
 Over the last ten years or so, academic research in the arts and social sciences has increasingly embraced the principles of transparency in research. These remain contested in some respects - and, in part, I share some of the concerns of my colleagues. 
 
