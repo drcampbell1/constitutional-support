@@ -1,6 +1,6 @@
 # constitutional-support
 
-# Repository for article in *Journal of Contemporary Central and Eastern Europe*. <br/> <br/> Ross Campbell, Ph.D. 
+# Repository for article in *Journal of Contemporary Central and Eastern Europe* <br/> <br/> Ross Campbell, Ph.D. 
 
 ## Data and R files ##
 
