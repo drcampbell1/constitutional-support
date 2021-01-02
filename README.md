@@ -14,7 +14,7 @@ In many respects R has facilatated this. Although it is open source software to 
 
 <img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png" alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 10px; float: right;"/>
 
-<img src="man/figures/logo.png" align="right" width="120" />
+
 
 ### References ###
 Campbell, R. (2019) *Popular Support for Democracy in Unified Germany: Critical Democrats*. London: Palgrave.
