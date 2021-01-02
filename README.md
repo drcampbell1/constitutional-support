@@ -12,7 +12,7 @@ Over the last ten years or so, academic research in the arts and social sciences
 
 In many respects R has facilatated this. Although it is open source software to use it effectively you need a clear (and reproducible) workflow. The files contained in this repository will be enough to replicate the empirical models and visualisations of my research.
 
-<img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png" alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 15px; float: right;"/>
+<img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png" alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 10px; float: right;"/>
 
 ### References ###
 Campbell, R. (2019) *Popular Support for Democracy in Unified Germany: Critical Democrats*. London: Palgrave.
