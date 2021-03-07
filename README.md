@@ -13,7 +13,7 @@ Over the last ten years or so, academic research in the arts and social sciences
 In many respects R has facilatated this. Although it is open source software to use it effectively you need a clear (and reproducible) workflow. The files contained in this repository will be enough to replicate the empirical models and visualisations of my research.
 
 
-![image](https://user-images.githubusercontent.com/36095902/110247102-5b498700-7f62-11eb-8bab-f8069bc83151.png width=120)
+![image](https://user-images.githubusercontent.com/36095902/110247102-5b498700-7f62-11eb-8bab-f8069bc83151.png)
 
 
 
