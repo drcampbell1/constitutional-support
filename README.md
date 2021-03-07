@@ -1,6 +1,6 @@
 
 
-![image](https://user-images.githubusercontent.com/36095902/110247102-5b498700-7f62-11eb-8bab-f8069bc83151.png) <img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png" alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 15px; float: right;"/>
+![image](https://user-images.githubusercontent.com/36095902/110247102-5b498700-7f62-11eb-8bab-f8069bc83151.png) <img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png" alt="The rmarkddown hex sticker" align="left" width="200" style="padding: 0 15px; float: left;"/>
 
 
 ### Repository for article in *Journal of Contemporary Central and Eastern Europe* <br/> <br/> Ross Campbell, Ph.D. ###
