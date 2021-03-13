@@ -1,6 +1,6 @@
 
 
-#### ![image](https://user-images.githubusercontent.com/36095902/110247102-5b498700-7f62-11eb-8bab-f8069bc83151.png)####
+![image](https://user-images.githubusercontent.com/36095902/110247102-5b498700-7f62-11eb-8bab-f8069bc83151.png)
 
 
 ### Repository for article in *Journal of Contemporary Central and Eastern Europe* <br/> <br/> Ross Campbell, Ph.D. ###
